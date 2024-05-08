@@ -1,0 +1,4 @@
+# this file MUST have a name that match the exstension filename
+ID=_any
+VERSION_ID=1.0
+ARCHITECTURE=x86-64
